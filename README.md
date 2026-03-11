@@ -1,19 +1,38 @@
-# DVLD Project
+# Driver License Management System
 
-Driver and Vehicle License Department system.
+A desktop application that simulates the system used by a Driver and Vehicle License Department (DVLD).
 
-This project is a desktop application built using C# and SQL Server.
+The system allows administrators to manage drivers, issue licenses, and track driving records.
 
 ## Features
-- Manage drivers
-- Manage licenses
-- Issue new licenses
-- Search system
+
+- Driver registration
+- License issuance
+- License renewal
+- Search for drivers
+- Manage driver records
+- Validation and data management
 
 ## Technologies
+
 - C#
+- .NET
 - SQL Server
-- WinForms
+- Three-Tier Architecture
 
 ## Architecture
-Three-Tier Architecture
+
+The project follows the Three-Tier Architecture:
+
+Presentation Layer  
+Business Logic Layer  
+Data Access Layer
+
+## Learning Goals
+
+This project was built to practice:
+
+- Object-Oriented Programming
+- Database design
+- System architecture
+- Building real-world management systems
