@@ -17,4 +17,3 @@ This project is a desktop application built using C# and SQL Server.
 
 ## Architecture
 Three-Tier Architecture
-(صور للبرنامج)
